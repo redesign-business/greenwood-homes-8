@@ -2,15 +2,15 @@
 @config "../tailwind.config.js";
 
 :root {
-  --color-background-primary: #ffffff;
-  --color-background-secondary: #eeeeee;
-  --color-background-tertiary: #666666;
-  --color-background-alternative: #000000;
-  --color-text-primary: #000000;
-  --color-text-secondary: #666666;
+  --color-background-primary: #f7f4ed;
+  --color-background-secondary: #ece7dc;
+  --color-background-tertiary: #52582f;
+  --color-background-alternative: #1d211c;
+  --color-text-primary: #23231f;
+  --color-text-secondary: #5e5b53;
   --color-text-alternative: #ffffff;
-  --color-border-primary: #000000;
-  --color-border-secondary: #aaaaaa;
+  --color-border-primary: #c8c1b3;
+  --color-border-secondary: #c8c1b3;
   --color-border-alternative: #ffffff;
   --scheme-background: var(--color-background-primary);
   --scheme-foreground: var(--color-background-primary);
@@ -18,10 +18,10 @@
   --scheme-border: var(--color-border-primary);
   --scheme-button-text: var(--color-text-alternative);
   --font-sans: Arial, sans-serif;
-  --font-display: var(--font-sans);
-  --space-section-sm: 4rem;
-  --space-section-md: 6rem;
-  --space-section-lg: 7rem;
+  --font-display: Georgia, serif;
+  --space-section-sm: 5rem;
+  --space-section-md: 7rem;
+  --space-section-lg: 9rem;
   --radius-button: 0rem;
   --radius-card: 0rem;
   --radius-image: 0rem;
